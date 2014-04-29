@@ -13,3 +13,4 @@ Para aprender Tecnologias Ágeis
 * Extreme Programming Explained: Embrace Change (1999) - Kent Beck
 * Domain Driven Design: Tackling Complexity in the Heart of Software (2003) - Eric Evans
 * Apprenticeship Patterns (2009) - Dave Hoover, Adewale Oshineye
+* Brilliant, Crazy, Cocky: How the Top 1% of Entrepreneurs Profit from Global Chaos (2011) - Sarah Lacy
