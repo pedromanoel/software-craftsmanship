@@ -21,6 +21,7 @@ Para ler
     *   [Lean & Kanban][infoq6]
 1.  Extreme Programming Explained: Embrace Change (1999) - Kent Beck
 1.  Brilliant, Crazy, Cocky: How the Top 1% of Entrepreneurs Profit from Global Chaos (2011) - Sarah Lacy
+1.  Especificação do CSS 2 e CSS 3
 
 Lidos
 ---
