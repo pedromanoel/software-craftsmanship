@@ -6,7 +6,7 @@ Esse repositório mantém a minha lista de estudos de Artesanato de Software (so
 Páginas
 ---
 
-* [Lista de Leitura][] - Lista de leituras que estou fazendo ou desejo fazer.
+* [Lista de Leituras][leituras] - Lista de leituras que estou fazendo ou desejo fazer.
 
 
-[Lista de Leitura]: /lista-de-leitura.md
+[leituras]: /leituras
