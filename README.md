@@ -1,7 +1,12 @@
-tarefas
+Artesanato de Software
 =======
 
-Lista de Tarefas
+Esse repositório mantém a minha lista de estudos de Artesanato de Software (software craftsmanship).
 
-- [ ] Tarefa 1
-- [ ] Tarefa 2
+Páginas
+---
+
+* [Lista de Leitura][] - Lista de leituras que estou fazendo ou desejo fazer.
+
+
+[Lista de Leitura]: /lista-de-leitura.md
